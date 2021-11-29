@@ -1,0 +1,25 @@
+.form-display {
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #dde5f4;
+    height: 100vh;
+  }
+
+.form-title {
+    font-size: 1.5em;
+    
+    padding-bottom: .5em;
+    text-align: left;
+}
+
+.sign-up-button {
+    text-decoration: none;
+    color: white;
+}
+
+.sign-up-button:hover {
+    text-decoration: none;
+    color: white;
+}
